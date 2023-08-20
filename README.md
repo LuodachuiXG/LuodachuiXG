@@ -2,11 +2,11 @@
 
 ## About me 🤔
 
-You can call me Loac or Luodachui.
+You can call me Loac.
 
-Im a 21 years old Chinese boy come from Jiangsu China.
+I'm a 22 years old Chinese boy come from Jiangsu China.
 
-I am currently studying software engineering at a university in Nanjing, Jiangsu China.
+Currently, I am studying software engineering at a university in Nanjing, Jiangsu, China.
 
 ## My hobby 🧡
 - 🪗 Listen to music.
@@ -19,13 +19,13 @@ I am currently studying software engineering at a university in Nanjing, Jiangsu
 - 🍧 Kotlin (learning)
 - 🍧 C/C++ (learning)
 - 🍧 C# (a little)
-- 🍧 易语言 (E)
+- 🍧 E (易语言)
 
 ## Reach me 😁
-[![GitHub](https://img.shields.io/badge/GitHub-LuodachuiXG-blue?style=for-the-badge)](https://github.com/LuodachuiXG/)
-[![Gitee](https://img.shields.io/badge/Gitee-我不是罗大锤-blue?style=for-the-badge)](https://gitee.com/luodachui/)
-[![Blog](https://img.shields.io/badge/Blog-我不是罗大锤-blue?style=for-the-badge)](https://luodachui.cn/)
-[![Mail](https://img.shields.io/badge/EMAIL-i@liili.li-e?style=for-the-badge)](mailto:i@liili.i)
+[![GitHub](https://img.shields.io/badge/GitHub-Loac-blue?style=for-the-badge)](https://github.com/LuodachuiXG/)
+[![Gitee](https://img.shields.io/badge/Gitee-loac-blue?style=for-the-badge)](https://gitee.com/luodachui/)
+[![Blog](https://img.shields.io/badge/Blog-loac-blue?style=for-the-badge)](https://loac.cc)
+[![Mail](https://img.shields.io/badge/EMAIL-admin@loac.cc-e?style=for-the-badge)](mailto:admin@loac.cc)
 
 ## GitHub Statistical Information 📟
 
