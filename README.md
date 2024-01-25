@@ -14,10 +14,10 @@ I'm a 22 years old Chinese boy come from Jiangsu China.
 ## I know some programming languages 🎠
 
 - 🍧 Java (I am good at)
-- 🍧 Kotlin (learning)
-- 🍧 C/C++ (learning)
-- 🍧 C# (a little)
-- 🍧 E (易语言)
+- 🍧 Kotlin (I am good at)
+- 🍧 C/C++ (I know a little)
+- 🍧 C# (I know a little)
+- 🍧 JavaScript / TypeScript
 
 ## Reach me 😁
 [![GitHub](https://img.shields.io/badge/GitHub-Loac-blue?style=for-the-badge)](https://github.com/LuodachuiXG/)
