@@ -6,8 +6,6 @@ You can call me Loac or Luodachui.
 
 I'm a 22 years old Chinese boy come from Jiangsu China.
 
-Currently, I am studying software engineering at a university in Nanjing, Jiangsu, China.
-
 ## My hobby 🧡
 - 🪗 Listen to music.
 - 💻 Play computer games.
