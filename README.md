@@ -13,11 +13,12 @@ I'm a 23 years old Chinese boy come from Jiangsu China.
 
 ## I know some programming languages 🎠
 
-- 🍧 Java (I am good at)
 - 🍧 Kotlin (I am good at)
+- 🍧 Java (I am good at)
+- 🍧 TypeScript (I am good at)
+- 🍧 Swift (I am studying)
 - 🍧 C/C++ (I know a little)
 - 🍧 C# (I know a little)
-- 🍧 JavaScript / TypeScript
 
 ## Reach me 😁
 [![GitHub](https://img.shields.io/badge/GitHub-Loac-blue?style=for-the-badge)](https://github.com/LuodachuiXG/)
