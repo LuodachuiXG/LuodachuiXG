@@ -16,7 +16,7 @@ I'm a 23 years old Chinese boy come from Jiangsu China.
 - 🍧 Kotlin (I am good at)
 - 🍧 Java (I am good at)
 - 🍧 TypeScript (I am good at)
-- 🍧 Swift (I am studying)
+- 🍧 Swift (I am learning)
 - 🍧 C/C++ (I know a little)
 - 🍧 C# (I know a little)
 
